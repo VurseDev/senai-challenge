@@ -13,6 +13,7 @@
 - Opcão de Criar Login
 
 ### TECNOLOGIAS UTILIZADAS (OU PELO MENOS QUE EU QUEIRA UTILIZAR)
-- MongoDB
-- React
-- TypeScript
+- MongoDB (Banco de Dados)
+- React (Front End)
+- TypeScript (Linguagem)
+- Bun.JS (Backend)
